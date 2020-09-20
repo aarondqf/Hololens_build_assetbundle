@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 872060525
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hololens_fbxs.unity3d
+      Dependencies: {}
